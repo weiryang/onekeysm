@@ -1,0 +1,9 @@
+E:\OneKeySM\OneKeySendMail\OneKeySendMail\bin\Debug\OneKeySendMail.exe
+E:\OneKeySM\OneKeySendMail\OneKeySendMail\obj\Debug\OneKeySendMail.exe
+E:\OneKeySM\OneKeySendMail\OneKeySendMail\obj\Debug\OneKeySendMail.pdb
+E:\OneKeySM\OneKeySendMail\OneKeySendMail\bin\Debug\OneKeySendMail.pdb
+E:\OneKeySM\OneKeySendMail\OneKeySendMail\obj\Debug\OneKeySendMail.csprojResolveAssemblyReference.cache
+E:\thinkpadT500\EDrive\OneKeySM\OneKeySendMail\OneKeySendMail\bin\Debug\OneKeySendMail.exe
+E:\thinkpadT500\EDrive\OneKeySM\OneKeySendMail\OneKeySendMail\bin\Debug\OneKeySendMail.pdb
+E:\thinkpadT500\EDrive\OneKeySM\OneKeySendMail\OneKeySendMail\obj\Debug\OneKeySendMail.exe
+E:\thinkpadT500\EDrive\OneKeySM\OneKeySendMail\OneKeySendMail\obj\Debug\OneKeySendMail.pdb
