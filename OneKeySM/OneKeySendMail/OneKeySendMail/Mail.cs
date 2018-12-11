@@ -304,11 +304,11 @@ namespace OneKeySendMail
             //}
             if (ton == "0")
             {
-                mail.To.Add(new MailAddress("gz@hljxlh.net", "基地考核邮箱"));
-                //mail.To.Add(new MailAddress("wangkunyu@hljxlh.net", "王昆宇"));
-                mail.To.Add(new MailAddress("qiaibin@hljxlh.net", "戚爱斌")); 
-                mail.To.Add(new MailAddress("sunwenbi@hljxlh.net", "孙文弼"));
-                //mail.To.Add(new MailAddress("yanliwei@hljxlh.net", "闫立伟"));
+                mail.To.Add(new MailAddress("gz@hljxlh.net", "xxx;
+                //mail.To.Add(new MailAddress("wangkunyu@hljxlh.net", "xxx);
+                mail.To.Add(new MailAddress("qiaibin@hljxlh.net", "xxx); 
+                mail.To.Add(new MailAddress("sunwenbi@hljxlh.net", "xxx);
+                //mail.To.Add(new MailAddress("yanliwei@hljxlh.net", "xxx);
             }
             if (ton == "1")
             {
